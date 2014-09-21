@@ -6,34 +6,43 @@ the software world.
 Pull requests happily accepted.
 
 ### Android
-http://androidweekly.net/
+
+* http://androidweekly.net/
 
 ### Clojure
-http://www.clojuregazette.com/
-http://defnewsletter.com/
+
+* http://www.clojuregazette.com/
+* http://defnewsletter.com/
 
 ### Databases
-http://postgresweekly.com/
-http://dbweekly.com/
+
+* http://postgresweekly.com/
+* http://dbweekly.com/
 
 ### Development
-http://statuscode.org/
+
+* http://statuscode.org/
 
 ### Go (Golang)
-http://www.golangweekly.com/
+
+* http://www.golangweekly.com/
 
 ### Javascript
-http://javascriptweekly.com/
-http://dartweekly.com/
+
+* http://javascriptweekly.com/
+* http://dartweekly.com/
 
 ### Node.js
-http://nodeweekly.com/
+
+* http://nodeweekly.com/
 
 ### Ruby
-http://rubyweekly.com/
+
+* http://rubyweekly.com/
 
 ### Web
-http://responsivedesignweekly.com/
-http://html5weekly.com/
+
+* http://responsivedesignweekly.com/
+* http://html5weekly.com/
 
 
