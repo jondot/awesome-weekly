@@ -40,6 +40,10 @@ Pull requests happily accepted.
 
 * http://nodeweekly.com/
 
+### NoSQL
+
+* http://www.nosqlweekly.com/
+
 ### Ruby
 
 * http://rubyweekly.com/
