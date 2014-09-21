@@ -23,6 +23,10 @@ Pull requests happily accepted.
 
 * http://statuscode.org/
 
+### Docker
+
+* http://blog.docker.com/docker-weekly-archives/
+
 ### Go (Golang)
 
 * http://www.golangweekly.com/
