@@ -57,8 +57,9 @@ Pull requests happily accepted.
 
 
 ### General
-- [SaaSClub Weekly Archive](http://us6.campaign-archive2.com/home/?u=a0775c2e59f1214edb6c41985&id=200bf3e38a)
-- [SaaSClub Weekly Archive (2)](http://saasclub.com/newsletters/)
+- [Green Ruby Newsletter](http://greenruby.org/)
+- [Some links from GreenRuby](http://greenruby.org/links.html)
+- [SaaSClub Weekly Archive](http://saasclub.com/newsletters/)
 - [Realtime Weekly Archive](http://realtimeweekly.co/issues)
 - [Software Lead Weekly Archive](http://softwareleadweekly.com/issues)
 - [DoneThis Newletter Archive](http://us2.campaign-archive1.com/home/?u=d31e96f0a6f95bb37e71e6bc8&id=e91a608258)
