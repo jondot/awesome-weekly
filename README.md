@@ -28,6 +28,7 @@ Pull requests happily accepted.
 - [data-visualization-and-d3-newsletter - Weekly Archive](https://www.dashingd3js.com/data-visualization-and-d3-newsletter)
 - [Hacking UI - Weekly Archive](http://hackingui.com/category/newsletter/)
 - [Plenty of links to newsletters](http://flippinawesome.org/2014/03/31/paralyzed-by-choice-in-front-end-development/)
+- [Webdesigner Depot](http://www.webdesignerdepot.com/)
 
 
 ### Databases
@@ -39,9 +40,8 @@ Pull requests happily accepted.
 
 
 ### Mobile
-* http://androidweekly.net/
-
-
+- http://androidweekly.net/
+- [Mobile Web Weekly](http://mobilewebweekly.co/)
 
 ### Development
 
@@ -54,7 +54,11 @@ Pull requests happily accepted.
 - [Devops Weekly Archive](http://devopsweekly.com/archive)
 - [Docker Weekly](http://blog.docker.io/docker-weekly-archives/)
 - [CenturyLinkLabs - weekly Docker advice](http://www.centurylinklabs.com/)
+- [Leanstack Weekly](http://leanstack.io/weekly)
 
+### Data Science
+- [Data Science Weekly](http://www.datascienceweekly.org/)
+ 
 
 ### General
 - [Green Ruby Newsletter](http://greenruby.org/)
@@ -63,3 +67,5 @@ Pull requests happily accepted.
 - [Realtime Weekly Archive](http://realtimeweekly.co/issues)
 - [Software Lead Weekly Archive](http://softwareleadweekly.com/issues)
 - [DoneThis Newletter Archive](http://us2.campaign-archive1.com/home/?u=d31e96f0a6f95bb37e71e6bc8&id=e91a608258)
+- [Hacker Newsletter](http://www.hackernewsletter.com/)
+- [Hakka Weekly](http://www.hakkalabs.co/subscribe)
