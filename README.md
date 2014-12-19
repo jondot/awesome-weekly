@@ -22,12 +22,19 @@ Pull requests happily accepted.
 ### Frontend/Webdesign
 
 - [css-weekly.com Archive](http://css-weekly.com/archives/)
+- [Codrops Archive](http://tympanus.net/codrops/collective/)
+- [MailChimp UX Archive](http://us5.campaign-archive2.com/home/?u=7e093c5cf4&id=ef8cc474cd)
+- [Webtools Weekly Archive](http://us5.campaign-archive1.com/home/?u=ea228d7061e8bbfa8639666ad&id=104d6bcc2d)
 - [responsivedesignweekly.com Archive](http://responsivedesignweekly.com/archive)
 - [html5weekly.com Archive](http://html5weekly.com/issues)
 - [weekly.gamedevjs.com Archive](http://weekly.gamedevjs.com/archive.html)
 - [data-visualization-and-d3-newsletter - Weekly Archive](https://www.dashingd3js.com/data-visualization-and-d3-newsletter)
 - [Hacking UI - Weekly Archive](http://hackingui.com/category/newsletter/)
+- [User OnBoard Newsleter Archive](http://us7.campaign-archive2.com/home/?u=d61edaa273ba973d957b3dac1&id=0c3c1eba14)
+- [Sidebar - Best design links daily Archive](http://us2.campaign-archive2.com/home/?u=b5af47765edbd2fc173dbf27a&id=9abeab36bb)
+- [Smashing Magazine Newsletter Weekly (example issue)](http://www.smashingmagazine.com/smashing-newsletter-issue-126/)
 - [Plenty of links to newsletters](http://flippinawesome.org/2014/03/31/paralyzed-by-choice-in-front-end-development/)
+- [Top 30 newsletters for designers, product managers and frontend developers](http://hackingui.com/design/top-newsletters-for-designers-product-managers-and-frontend-developers/)
 - [Webdesigner Depot](http://www.webdesignerdepot.com/)
 
 
@@ -58,7 +65,7 @@ Pull requests happily accepted.
 
 ### Data Science
 - [Data Science Weekly](http://www.datascienceweekly.org/)
- 
+
 
 ### General
 - [Green Ruby Newsletter](http://greenruby.org/)
