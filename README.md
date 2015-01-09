@@ -66,6 +66,9 @@ Pull requests happily accepted.
 ### Data Science
 - [Data Science Weekly](http://www.datascienceweekly.org/)
 
+### Big Data
+
+- [Big Data Weekly](git@github.com:atilacamurca/awesome-weekly.git)
 
 ### General
 - [Green Ruby Newsletter](http://greenruby.org/)
