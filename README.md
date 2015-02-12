@@ -9,6 +9,7 @@ Pull requests happily accepted.
 ### Languages
 
 - [rubyweekly.com Archive](http://rubyweekly.com/issues)
+- [Green Ruby Newsletter](http://greenruby.org/)
 - [javascriptweekly.com Archive](http://javascriptweekly.com/issues)
 - [nodeweekly.com Archive](http://nodeweekly.com/archive)
 - [dartweekly.com Archive](http://dartweekly.com/issues)
@@ -72,8 +73,7 @@ Pull requests happily accepted.
 - [Big Data Weekly](http://www.bigdataweekly.com/)
 
 ### General
-- [Green Ruby Newsletter](http://greenruby.org/)
-- [Some links from GreenRuby](http://greenruby.org/links.html)
+- [Fullstack Radar](http://fullstackradar.io/)
 - [SaaSClub Weekly Archive](http://saasclub.com/newsletters/)
 - [Realtime Weekly Archive](http://realtimeweekly.co/issues)
 - [Software Lead Weekly Archive](http://softwareleadweekly.com/issues)
