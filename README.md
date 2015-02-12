@@ -69,7 +69,7 @@ Pull requests happily accepted.
 
 ### Big Data
 
-- [Big Data Weekly](git@github.com:atilacamurca/awesome-weekly.git)
+- [Big Data Weekly](http://www.bigdataweekly.com/)
 
 ### General
 - [Green Ruby Newsletter](http://greenruby.org/)
