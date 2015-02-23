@@ -48,7 +48,7 @@ Pull requests happily accepted.
 - [postgresweekly.com Archive](http://postgresweekly.com/issues)
 - [redisweekly.com Archive](http://redisweekly.com/archive/)
 - [Redis Watch Archive](https://redislabs.com/redis-watch-archive)
-- [NoSQL Weekly Archive](http://us2.campaign-archive2.com/home/?u=72f68dcee17c92724bc7822fb&id=2f0470315b)
+- [nosqlweekly.com Archive](http://us2.campaign-archive2.com/home/?u=72f68dcee17c92724bc7822fb&id=2f0470315b)
 - [ElasticSearch Newsletter](http://www.elasticsearch.com/#email_signup)
 
 ### Mobile
@@ -58,21 +58,21 @@ Pull requests happily accepted.
 ### Development
 - [statuscode.org Archive](http://statuscode.org/archive)
 - [thechangelog.com Weekly Archive](http://thechangelog.com/weekly/archive/)
-- [Coding For Interviews - one issue](http://us2.campaign-archive2.com/?u=cadc6c448cd083a0aeed7f864&id=d45eca2fd7)
+- [codingforinterviews.com](http://codingforinterviews.com/)
 
 ### DevOps
-- [Devops Weekly Archive](http://devopsweekly.com/archive)
+- [devopsweekly.com y Archive](http://devopsweekly.com/archive)
 - [Docker Weekly Archive](http://blog.docker.io/docker-weekly-archives/)
-- [CenturyLinkLabs - weekly Docker advice](http://www.centurylinklabs.com/)
+- [CenturyLinkLabs - Docker](http://www.centurylinklabs.com/)
 - [Leanstack Weekly Archive](http://us2.campaign-archive2.com/home/?u=5298275b7ee689be412444f45&id=2911f8fd09)
 - [Heroku Weekly](https://madmimi.com/signups/72042/join)
 
 ### Data Science
-- [Data Science Weekly Archive](http://www.datascienceweekly.org/newsletters)
+- [datascienceweekly.org Archive](http://www.datascienceweekly.org/newsletters)
 
 ### Big Data
-- [Big Data Weekly Archive](http://us2.campaign-archive1.com/home/?u=878bcd0ec6493f52f57278516&id=8556a84b93)
-- [Hadoop Weekly Archive](http://www.hadoopweekly.com/archive.html)
+- [bigdataweekly.com Archive](http://us2.campaign-archive1.com/home/?u=878bcd0ec6493f52f57278516&id=8556a84b93)
+- [hadoopweekly.com Archive](http://www.hadoopweekly.com/archive.html)
 
 ### General
 - [Fullstack Radar](http://fullstackradar.io/)
