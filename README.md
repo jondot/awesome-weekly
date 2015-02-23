@@ -43,8 +43,8 @@ Pull requests happily accepted.
 ### Databases
 - [dbweekly.com Archive](http://dbweekly.com/issues)
 - [postgresweekly.com Archive](http://postgresweekly.com/issues)
-- [redisweekly.com Archive](http://redisweekly.com/archive)
-- [Redis Watch Archive](https://redislabs.com/redis-watch/archive)
+- [redisweekly.com Archive](http://redisweekly.com/archive/)
+- [Redis Watch Archive](https://redislabs.com/redis-watch-archive)
 - [NoSQL Weekly Archive](http://us2.campaign-archive2.com/home/?u=72f68dcee17c92724bc7822fb&id=2f0470315b)
 - [ElasticSearch Newsletter](http://www.elasticsearch.com/#email_signup)
 
