@@ -36,9 +36,11 @@ Pull requests happily accepted.
 - [User OnBoard Newsleter Archive](http://us7.campaign-archive2.com/home/?u=d61edaa273ba973d957b3dac1&id=0c3c1eba14)
 - [Sidebar - Best design links daily Archive](http://us2.campaign-archive2.com/home/?u=b5af47765edbd2fc173dbf27a&id=9abeab36bb)
 - [Smashing Magazine Newsletter Weekly (example issue)](http://www.smashingmagazine.com/smashing-newsletter-issue-126/)
-- [Plenty of links to newsletters](http://flippinawesome.org/2014/03/31/paralyzed-by-choice-in-front-end-development/)
-- [Top 30 newsletters for designers, product managers and frontend developers](http://hackingui.com/design/top-newsletters-for-designers-product-managers-and-frontend-developers/)
 - [Webdesigner Depot](http://www.webdesignerdepot.com/)
+- [web-design-weekly.com Archive](http://web-design-weekly.com/archive/)
+- [webtoolsweekly.com Archive](http://webtoolsweekly.com/#archive)
+- [emberweekly.com Archive](http://emberweekly.com/issues.html)
+- [Top 30 newsletters for designers, product managers and frontend developers](http://hackingui.com/design/top-newsletters-for-designers-product-managers-and-frontend-developers/)
 
 ### Databases
 - [dbweekly.com Archive](http://dbweekly.com/issues)
