@@ -40,7 +40,6 @@ Pull requests happily accepted.
 - [Top 30 newsletters for designers, product managers and frontend developers](http://hackingui.com/design/top-newsletters-for-designers-product-managers-and-frontend-developers/)
 - [Webdesigner Depot](http://www.webdesignerdepot.com/)
 
-
 ### Databases
 - [dbweekly.com Archive](http://dbweekly.com/issues)
 - [postgresweekly.com Archive](http://postgresweekly.com/issues)
@@ -49,19 +48,16 @@ Pull requests happily accepted.
 - [NoSQL Weekly Archive](http://us2.campaign-archive2.com/home/?u=72f68dcee17c92724bc7822fb&id=2f0470315b)
 - [ElasticSearch Newsletter](http://www.elasticsearch.com/#email_signup)
 
-
 ### Mobile
 - [Android Weekly Archive](http://androidweekly.net/archive)
 - [Mobile Web Weekly Archive](http://mobilewebweekly.co/issues)
 
 ### Development
-
 - [statuscode.org Archive](http://statuscode.org/archive)
 - [thechangelog.com Weekly Archive](http://thechangelog.com/weekly/archive/)
 - [Coding For Interviews - one issue](http://us2.campaign-archive2.com/?u=cadc6c448cd083a0aeed7f864&id=d45eca2fd7)
 
 ### DevOps
-
 - [Devops Weekly Archive](http://devopsweekly.com/archive)
 - [Docker Weekly Archive](http://blog.docker.io/docker-weekly-archives/)
 - [CenturyLinkLabs - weekly Docker advice](http://www.centurylinklabs.com/)
