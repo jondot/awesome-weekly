@@ -74,6 +74,7 @@ Pull requests happily accepted.
 
 ### Big Data
 - [Big Data Weekly Archive](http://us2.campaign-archive1.com/home/?u=878bcd0ec6493f52f57278516&id=8556a84b93)
+- [Hadoop Weekly Archive](http://www.hadoopweekly.com/archive.html)
 
 ### General
 - [Fullstack Radar](http://fullstackradar.io/)
