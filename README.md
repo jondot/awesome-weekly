@@ -64,7 +64,7 @@ Pull requests happily accepted.
 ### DevOps
 
 - [Devops Weekly Archive](http://devopsweekly.com/archive)
-- [Docker Weekly](http://blog.docker.io/docker-weekly-archives/)
+- [Docker Weekly Archive](http://blog.docker.io/docker-weekly-archives/)
 - [CenturyLinkLabs - weekly Docker advice](http://www.centurylinklabs.com/)
 - [Leanstack Weekly](http://leanstack.io/weekly)
 
