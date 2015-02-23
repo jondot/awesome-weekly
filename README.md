@@ -30,7 +30,7 @@ Pull requests happily accepted.
 - [Webtools Weekly Archive](http://us5.campaign-archive1.com/home/?u=ea228d7061e8bbfa8639666ad&id=104d6bcc2d)
 - [responsivedesignweekly.com Archive](http://responsivedesignweekly.com/archive)
 - [html5weekly.com Archive](http://html5weekly.com/issues)
-- [weekly.gamedevjs.com Archive](http://weekly.gamedevjs.com/archive.html)
+- [gamedevjsweekly.com Archive](http://gamedevjsweekly.com/archive.html)
 - [Data Visualization & D3.js Weekly Archive](https://www.dashingd3js.com/data-visualization-and-d3-newsletter)
 - [Hacking UI newsletter](http://hackingui.com/sign-up/)
 - [User OnBoard Newsleter Archive](http://us7.campaign-archive2.com/home/?u=d61edaa273ba973d957b3dac1&id=0c3c1eba14)
