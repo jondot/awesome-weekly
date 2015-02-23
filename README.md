@@ -80,6 +80,7 @@ Pull requests happily accepted.
 - [SaaSClub Weekly Archive](http://saasclub.com/newsletters/)
 - [Realtime Weekly Archive](http://realtimeweekly.co/issues)
 - [Software Lead Weekly Archive](http://softwareleadweekly.com/issues)
+- [Technology & Leadership News Archive](http://www.techleadershipnews.com/category/issues/)
 - [DoneThis Newletter Archive](http://us2.campaign-archive1.com/home/?u=d31e96f0a6f95bb37e71e6bc8&id=e91a608258)
 - [Hacker Newsletter](http://www.hackernewsletter.com/)
 - [Hakka Weekly](http://www.hakkalabs.co/subscribe)
