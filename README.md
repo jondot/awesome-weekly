@@ -84,3 +84,4 @@ Pull requests happily accepted.
 - [DoneThis Newletter Archive](http://us2.campaign-archive1.com/home/?u=d31e96f0a6f95bb37e71e6bc8&id=e91a608258)
 - [Hacker Newsletter](http://www.hackernewsletter.com/)
 - [Hakka Weekly](http://www.hakkalabs.co/subscribe)
+- [Founder Weekly](http://www.founderweekly.com/)
