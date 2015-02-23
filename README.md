@@ -69,7 +69,7 @@ Pull requests happily accepted.
 - [Leanstack Weekly](http://leanstack.io/weekly)
 
 ### Data Science
-- [Data Science Weekly](http://www.datascienceweekly.org/)
+- [Data Science Weekly Archive](http://www.datascienceweekly.org/newsletters)
 
 ### Big Data
 
