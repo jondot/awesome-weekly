@@ -50,8 +50,8 @@ Pull requests happily accepted.
 
 
 ### Mobile
-- http://androidweekly.net/
-- [Mobile Web Weekly](http://mobilewebweekly.co/)
+- [Android Weekly Archive](http://androidweekly.net/archive)
+- [Mobile Web Weekly Archive](http://mobilewebweekly.co/issues)
 
 ### Development
 
