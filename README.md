@@ -17,7 +17,7 @@ Pull requests happily accepted.
 - [clojuregazette.com Archive](http://www.clojuregazette.com/archive.html)
 - [(def newsletter) - Clojure - Archive](http://us2.campaign-archive2.com/home/?u=62fb70be840779d7af85e9b6e&id=4951b7aa7c)
 - [Clojure Weekly - Post Series](http://reborg.tumblr.com/)
-- [Elixir Fountain - Elixir Weekly Archive](http://us3.campaign-archive1.com/home/?u=2c36695b74400d6399fb3fa1a&id=4e339ab495)
+- [Elixir Fountain Archive](http://us3.campaign-archive1.com/home/?u=2c36695b74400d6399fb3fa1a&id=4e339ab495)
 - [pythonweekly.com Archive](http://www.pythonweekly.com/archive/)
 - [pycoders.com Archive](http://pycoders.com/archive/)
 - [perlweekly.com Archive](http://perlweekly.com/archive/)
