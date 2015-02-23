@@ -19,6 +19,7 @@ Pull requests happily accepted.
 - [Clojure Weekly - Post Series](http://reborg.tumblr.com/)
 - [Elixir Fountain - Elixir Weekly Archive](http://us3.campaign-archive1.com/home/?u=2c36695b74400d6399fb3fa1a&id=4e339ab495)
 - [pythonweekly.com Archive](http://www.pythonweekly.com/archive/)
+- [perlweekly.com Archive](http://perlweekly.com/archive/)
 
 ### Frontend/Webdesign
 - [AngularJS - ng-newsletter](http://www.ng-newsletter.com/)
