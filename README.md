@@ -72,8 +72,7 @@ Pull requests happily accepted.
 - [Data Science Weekly Archive](http://www.datascienceweekly.org/newsletters)
 
 ### Big Data
-
-- [Big Data Weekly](http://www.bigdataweekly.com/)
+- [Big Data Weekly Archive](http://us2.campaign-archive1.com/home/?u=878bcd0ec6493f52f57278516&id=8556a84b93)
 
 ### General
 - [Fullstack Radar](http://fullstackradar.io/)
