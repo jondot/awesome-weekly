@@ -22,6 +22,7 @@ Pull requests happily accepted.
 
 ### Frontend/Webdesign
 - [AngularJS - ng-newsletter](http://www.ng-newsletter.com/)
+- [Ember Weekly](http://emberweekly.com/)
 - [css-weekly.com Archive](http://css-weekly.com/archives/)
 - [Codrops Archive](http://tympanus.net/codrops/collective/)
 - [MailChimp UX Archive](http://us5.campaign-archive2.com/home/?u=7e093c5cf4&id=ef8cc474cd)
@@ -50,6 +51,7 @@ Pull requests happily accepted.
 
 ### Mobile
 - http://androidweekly.net/
+- [iOS Dev weekly](https://iosdevweekly.com/)
 - [Mobile Web Weekly](http://mobilewebweekly.co/)
 
 ### Development
