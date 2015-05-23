@@ -97,4 +97,5 @@ Pull requests happily accepted.
 - [Hacker Newsletter](http://www.hackernewsletter.com/)
 - [Hakka Weekly](http://www.hakkalabs.co/subscribe)
 - [Web Audio Weekly (WAW)](http://blog.chrislowis.co.uk/waw.html)
-- [Founder Weekly](http://www.founderweekly.com/)
+- [Founder Weekly](http://www.founderweekly.com/), [Archive](http://us2.campaign-archive1.com/home/?u=1777e24141237efbde735ec78&id=286b01fd3e)
+
