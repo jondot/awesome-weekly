@@ -80,6 +80,7 @@ Pull requests happily accepted.
 
 ### Data Science
 - [datascienceweekly.org Archive](http://www.datascienceweekly.org/newsletters)
+- [aiweekly.co Archive](http://aiweekly.co/issues)
 
 ### Big Data
 - [bigdataweekly.com Archive](http://us2.campaign-archive1.com/home/?u=878bcd0ec6493f52f57278516&id=8556a84b93)
