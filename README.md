@@ -57,7 +57,7 @@ Pull requests happily accepted.
 - [Redis Watch Archive](https://redislabs.com/redis-watch-archive)
 - [nosqlweekly.com Archive](http://us2.campaign-archive2.com/home/?u=72f68dcee17c92724bc7822fb&id=2f0470315b)
 - [ElasticSearch Newsletter](http://www.elasticsearch.com/#email_signup)
-- [mysqlweekly.com Archive](http://us6.campaign-archive1.com/home/?u=009fd87839a759e30570956a2&id=9bd9fc13c5)
+- [mysqlweekly.com](http://mysqlnewsletter.com/), [mysqlweekly.com Archive](http://us6.campaign-archive1.com/home/?u=009fd87839a759e30570956a2&id=9bd9fc13c5)
 
 ### Mobile
 - [iOS Dev weekly](https://iosdevweekly.com/)
