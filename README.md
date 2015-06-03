@@ -31,6 +31,7 @@ Pull requests happily accepted.
 - [AngularJS - ng-newsletter](http://www.ng-newsletter.com/)
 - [Ember Weekly](http://emberweekly.com/)
 - [css-weekly.com Archive](http://css-weekly.com/archives/)
+- [React Native newsletter](http://brentvatne.ca/react-native-newsletter/)
 - [Codrops Archive](http://tympanus.net/codrops/collective/)
 - [MailChimp UX Archive](http://us5.campaign-archive2.com/home/?u=7e093c5cf4&id=ef8cc474cd)
 - [Webtools Weekly Archive](http://us5.campaign-archive1.com/home/?u=ea228d7061e8bbfa8639666ad&id=104d6bcc2d)
