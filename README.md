@@ -96,7 +96,7 @@ Pull requests happily accepted.
 - [Technology & Leadership News Archive](http://www.techleadershipnews.com/category/issues/)
 - [DoneThis Newletter Archive](http://us2.campaign-archive1.com/home/?u=d31e96f0a6f95bb37e71e6bc8&id=e91a608258)
 - [Hacker Newsletter](http://www.hackernewsletter.com/)
-- [dataelixir.com/ - weekly collection of the best data science news, resources, and inspirations](http://dataelixir.com/issues)
+- [dataelixir.com - weekly collection of the best data science news, resources, and inspirations](http://dataelixir.com/issues)
 - [Hakka Weekly](http://www.hakkalabs.co/subscribe)
 - [Web Audio Weekly (WAW)](http://blog.chrislowis.co.uk/waw.html)
 - [Founder Weekly](http://www.founderweekly.com/), [Archive](http://us2.campaign-archive1.com/home/?u=1777e24141237efbde735ec78&id=286b01fd3e)
