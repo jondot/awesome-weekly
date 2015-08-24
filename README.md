@@ -23,6 +23,8 @@ Pull requests happily accepted.
 - [pycoders.com Archive](http://pycoders.com/archive/)
 - [perlweekly.com Archive](http://perlweekly.com/archive/)
 - [Scala Times Archive](http://us2.campaign-archive1.com/home/?u=ba834c562d82d9aba5eaf90ba&id=32cef9ab4e)
+- [DotNet Weekly](http://www.dotnetweekly.com/)
+
 
 ### Frontend/Webdesign
 - [AngularJS - ng-newsletter](http://www.ng-newsletter.com/)
