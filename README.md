@@ -73,6 +73,7 @@ Pull requests happily accepted.
 - [Big Data Weekly](http://www.bigdataweekly.com/)
 
 ### General
+- [FullWeb Weekly](http://fullweb.io/), the newsletter for fullstack developers
 - [Fullstack Radar](http://fullstackradar.io/)
 - [SaaSClub Weekly Archive](http://saasclub.com/newsletters/)
 - [Realtime Weekly Archive](http://realtimeweekly.co/issues)
