@@ -19,6 +19,7 @@ Pull requests happily accepted.
 - [Clojure Weekly - Post Series](http://reborg.tumblr.com/)
 - [This Week in Rust](http://this-week-in-rust.org/blog/archives/index.html)
 - [Elixir Fountain Archive](http://us3.campaign-archive1.com/home/?u=2c36695b74400d6399fb3fa1a&id=4e339ab495)
+- [phpweekly.com Archive](http://www.phpweekly.com/archive.html)
 - [pythonweekly.com Archive](http://www.pythonweekly.com/archive/)
 - [pycoders.com Archive](http://pycoders.com/archive/)
 - [perlweekly.com Archive](http://perlweekly.com/archive/)
