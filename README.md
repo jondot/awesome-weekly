@@ -63,6 +63,8 @@ Pull requests happily accepted.
 - [iOS Dev weekly](https://iosdevweekly.com/)
 - [Android Weekly Archive](http://androidweekly.net/archive)
 - [Mobile Web Weekly Archive](http://mobilewebweekly.co/issues)
+- [iOS Dev Nuggets](http://hboon.com/iosdevnuggets/)
+- [This Week in Swift](http://swiftnews.curated.co)
 
 ### Development
 - [statuscode.org Archive](http://statuscode.org/archive)
