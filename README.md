@@ -90,6 +90,7 @@ Pull requests happily accepted.
 ### General
 - [FullWeb Weekly](http://fullweb.io/), the newsletter for fullstack developers
 - [Fullstack Radar](http://fullstackradar.io/)
+- [Technically Speaking](http://tinyletter.com/techspeak)
 - [SaaSClub Weekly Archive](http://saasclub.com/newsletters/)
 - [Realtime Weekly Archive](http://realtimeweekly.co/issues)
 - [Software Lead Weekly Archive](http://softwareleadweekly.com/issues)
