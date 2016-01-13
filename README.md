@@ -31,6 +31,7 @@ Pull requests happily accepted.
 - [AngularJS - ng-newsletter](http://www.ng-newsletter.com/)
 - [Ember Weekly](http://emberweekly.com/)
 - [css-weekly.com Archive](http://css-weekly.com/archives/)
+- [React Native newsletter](http://brentvatne.ca/react-native-newsletter/)
 - [Codrops Archive](http://tympanus.net/codrops/collective/)
 - [MailChimp UX Archive](http://us5.campaign-archive2.com/home/?u=7e093c5cf4&id=ef8cc474cd)
 - [Webtools Weekly Archive](http://us5.campaign-archive1.com/home/?u=ea228d7061e8bbfa8639666ad&id=104d6bcc2d)
@@ -57,7 +58,7 @@ Pull requests happily accepted.
 - [Redis Watch Archive](https://redislabs.com/redis-watch-archive)
 - [nosqlweekly.com Archive](http://us2.campaign-archive2.com/home/?u=72f68dcee17c92724bc7822fb&id=2f0470315b)
 - [ElasticSearch Newsletter](http://www.elasticsearch.com/#email_signup)
-- [mysqlweekly.com Archive](http://us6.campaign-archive1.com/home/?u=009fd87839a759e30570956a2&id=9bd9fc13c5)
+- [mysqlweekly.com](http://mysqlnewsletter.com/), [mysqlweekly.com Archive](http://us6.campaign-archive1.com/home/?u=009fd87839a759e30570956a2&id=9bd9fc13c5)
 
 ### Mobile
 - [iOS Dev weekly](https://iosdevweekly.com/)
@@ -80,6 +81,7 @@ Pull requests happily accepted.
 
 ### Data Science
 - [datascienceweekly.org Archive](http://www.datascienceweekly.org/newsletters)
+- [aiweekly.co Archive](http://aiweekly.co/issues)
 
 ### Big Data
 - [bigdataweekly.com Archive](http://us2.campaign-archive1.com/home/?u=878bcd0ec6493f52f57278516&id=8556a84b93)
@@ -88,12 +90,15 @@ Pull requests happily accepted.
 ### General
 - [FullWeb Weekly](http://fullweb.io/), the newsletter for fullstack developers
 - [Fullstack Radar](http://fullstackradar.io/)
+- [Technically Speaking](http://tinyletter.com/techspeak)
 - [SaaSClub Weekly Archive](http://saasclub.com/newsletters/)
 - [Realtime Weekly Archive](http://realtimeweekly.co/issues)
 - [Software Lead Weekly Archive](http://softwareleadweekly.com/issues)
 - [Technology & Leadership News Archive](http://www.techleadershipnews.com/category/issues/)
 - [DoneThis Newletter Archive](http://us2.campaign-archive1.com/home/?u=d31e96f0a6f95bb37e71e6bc8&id=e91a608258)
 - [Hacker Newsletter](http://www.hackernewsletter.com/)
+- [dataelixir.com - weekly collection of the best data science news, resources, and inspirations](http://dataelixir.com/issues)
 - [Hakka Weekly](http://www.hakkalabs.co/subscribe)
 - [Web Audio Weekly (WAW)](http://blog.chrislowis.co.uk/waw.html)
-- [Founder Weekly](http://www.founderweekly.com/)
+- [Founder Weekly](http://www.founderweekly.com/), [Archive](http://us2.campaign-archive1.com/home/?u=1777e24141237efbde735ec78&id=286b01fd3e)
+
