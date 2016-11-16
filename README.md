@@ -72,6 +72,7 @@ Pull requests happily accepted.
 - [statuscode.org Archive](http://statuscode.org/archive)
 - [thechangelog.com Weekly Archive](http://thechangelog.com/weekly/archive/)
 - [codingforinterviews.com](http://codingforinterviews.com/)
+- [TechBridge Weekly](http://weekly.techbridge.cc/)
 
 ### DevOps
 
