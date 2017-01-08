@@ -69,7 +69,7 @@ Pull requests happily accepted.
 - [This Week in Swift](http://swiftnews.curated.co)
 
 ### Development
-- [statuscode.org Archive](http://statuscode.org/archive)
+- [statuscode.org Archive](http://statuscode.com/issues)
 - [thechangelog.com Weekly Archive](http://thechangelog.com/weekly/archive/)
 - [codingforinterviews.com](http://codingforinterviews.com/)
 
