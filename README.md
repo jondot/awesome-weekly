@@ -26,6 +26,7 @@ Pull requests happily accepted.
 - [perlweekly.com Archive](http://perlweekly.com/archive/)
 - [Scala Times Archive](http://us2.campaign-archive1.com/home/?u=ba834c562d82d9aba5eaf90ba&id=32cef9ab4e)
 - [DotNet Weekly](http://www.dotnetweekly.com/)
+- [Kotlin Weekly](http://www.kotlinweekly.net/)
 
 
 ### Frontend/Webdesign
