@@ -104,4 +104,4 @@ Pull requests happily accepted.
 - [Founder Weekly](http://www.founderweekly.com/), [Archive](http://us2.campaign-archive1.com/home/?u=1777e24141237efbde735ec78&id=286b01fd3e)
 - [Software Craftsmanship Newsletter](http://www.softwarecraftsmanship.news/), [Archive](http://us12.campaign-archive2.com/home/?u=236e2ae83565c4e5b130ac556&id=b96cfd64fc)
 - [Better Dev Link](https://betterdev.link/), [Archive](https://betterdev.link/issues)
-
+- [cron.weekly](https://www.cronweekly.com/)
