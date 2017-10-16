@@ -78,6 +78,7 @@ Pull requests happily accepted.
 - [Docker Weekly Archive](http://blog.docker.io/docker-weekly-archives/)
 - [CenturyLinkLabs - Docker](http://www.centurylinklabs.com/)
 - [Heroku Weekly](https://madmimi.com/signups/72042/join)
+- [KubeWeekly](http://kube.news/)
 
 ### Data Science
 - [datascienceweekly.org Archive](http://www.datascienceweekly.org/newsletters)
