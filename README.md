@@ -1,4 +1,3 @@
-
 # Awesome-Weekly
 An `awesome` type curated list of quality weekly subscription newsletters from
 the software world.
@@ -7,7 +6,6 @@ Pull requests happily accepted.
 
 
 ### Languages
-
 - [rubyweekly.com Archive](http://rubyweekly.com/issues)
 - [Green Ruby Newsletter](http://greenruby.org/)
 - [javascriptweekly.com Archive](http://javascriptweekly.com/issues)
@@ -26,7 +24,7 @@ Pull requests happily accepted.
 - [perlweekly.com Archive](http://perlweekly.com/archive/)
 - [Scala Times Archive](http://us2.campaign-archive1.com/home/?u=ba834c562d82d9aba5eaf90ba&id=32cef9ab4e)
 - [DotNet Weekly](http://www.dotnetweekly.com/)
-
+- [Kotlin Weekly](http://www.kotlinweekly.net/)
 
 ### Frontend/Webdesign
 - [AngularJS - ng-newsletter](http://www.ng-newsletter.com/)
@@ -51,6 +49,7 @@ Pull requests happily accepted.
 - [sassweekly.com](http://sassnews.us7.list-manage.com/subscribe?u=b4a4054cce715a3b0ae5e7d35&id=f7c505323d)
 - [feweekly.com](http://www.feweekly.com/)
 - [Top 30 newsletters for designers, product managers and frontend developers](http://hackingui.com/design/top-newsletters-for-designers-product-managers-and-frontend-developers/)
+- [Design Systems Weekly](https://designsystems.email/)
 
 ### Databases
 - [dbweekly.com Archive](http://dbweekly.com/issues)
@@ -67,26 +66,29 @@ Pull requests happily accepted.
 - [Mobile Web Weekly Archive](http://mobilewebweekly.co/issues)
 - [iOS Dev Nuggets](http://hboon.com/iosdevnuggets/)
 - [This Week in Swift](http://swiftnews.curated.co)
+- [Swift Developments](https://andybargh.com/swiftdevelopments/)
 
 ### Development
-- [statuscode.org Archive](http://statuscode.org/archive)
+- [statuscode.org Archive](http://statuscode.com/issues)
 - [thechangelog.com Weekly Archive](http://thechangelog.com/weekly/archive/)
 - [codingforinterviews.com](http://codingforinterviews.com/)
 - [TechBridge Weekly](http://weekly.techbridge.cc/)
 
 ### DevOps
-
 - [Devops Weekly Archive](http://devopsweekly.com/archive)
 - [Leanstack Weekly](http://leanstack.io/weekly)
 - [Web Operations Weekly](http://webopsweekly.com/)
 - [Docker Weekly Archive](http://blog.docker.io/docker-weekly-archives/)
 - [CenturyLinkLabs - Docker](http://www.centurylinklabs.com/)
 - [Heroku Weekly](https://madmimi.com/signups/72042/join)
+- [KubeWeekly](http://kube.news/)
 
 ### Data Science
 - [datascienceweekly.org Archive](http://www.datascienceweekly.org/newsletters)
 - [aiweekly.co Archive](http://aiweekly.co/issues)
 - [機器學習日報](http://ml.memect.com/)
+- [Deep Learning Weekly](http://digest.deeplearningweekly.com)
+
 
 ### Big Data
 - [bigdataweekly.com Archive](http://us2.campaign-archive1.com/home/?u=878bcd0ec6493f52f57278516&id=8556a84b93)
@@ -106,4 +108,6 @@ Pull requests happily accepted.
 - [Hakka Weekly](http://www.hakkalabs.co/subscribe)
 - [Web Audio Weekly (WAW)](http://blog.chrislowis.co.uk/waw.html)
 - [Founder Weekly](http://www.founderweekly.com/), [Archive](http://us2.campaign-archive1.com/home/?u=1777e24141237efbde735ec78&id=286b01fd3e)
-
+- [Software Craftsmanship Newsletter](http://www.softwarecraftsmanship.news/), [Archive](http://us12.campaign-archive2.com/home/?u=236e2ae83565c4e5b130ac556&id=b96cfd64fc)
+- [Better Dev Link](https://betterdev.link/), [Archive](https://betterdev.link/issues)
+- [cron.weekly](https://www.cronweekly.com/)
