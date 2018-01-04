@@ -9,7 +9,7 @@ Pull requests happily accepted.
 - [rubyweekly.com Archive](http://rubyweekly.com/issues)
 - [Green Ruby Newsletter](http://greenruby.org/)
 - [javascriptweekly.com Archive](http://javascriptweekly.com/issues)
-- [nodeweekly.com Archive](http://nodeweekly.com/archive)
+- [nodeweekly.com Archive](http://nodeweekly.com/issues)
 - [dartweekly.com Archive](http://dartweekly.com/issues)
 - [golangweekly.com Archive](http://www.golangweekly.com/archive)
 - [clojuregazette.com Archive](http://www.clojuregazette.com/archive.html)
