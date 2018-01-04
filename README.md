@@ -52,6 +52,7 @@ Pull requests happily accepted.
 - [sassweekly.com](http://sassnews.us7.list-manage.com/subscribe?u=b4a4054cce715a3b0ae5e7d35&id=f7c505323d)
 - [feweekly.com](http://www.feweekly.com/)
 - [Top 30 newsletters for designers, product managers and frontend developers](http://hackingui.com/design/top-newsletters-for-designers-product-managers-and-frontend-developers/)
+- [Design Systems Weekly](https://designsystems.email/)
 
 ### Databases
 - [dbweekly.com Archive](http://dbweekly.com/issues)
