@@ -72,6 +72,7 @@ Pull requests happily accepted.
 - [statuscode.org Archive](http://statuscode.com/issues)
 - [thechangelog.com Weekly Archive](http://thechangelog.com/weekly/archive/)
 - [codingforinterviews.com](http://codingforinterviews.com/)
+- [TechBridge Weekly](http://weekly.techbridge.cc/)
 
 ### DevOps
 - [Devops Weekly Archive](http://devopsweekly.com/archive)
@@ -85,7 +86,9 @@ Pull requests happily accepted.
 ### Data Science
 - [datascienceweekly.org Archive](http://www.datascienceweekly.org/newsletters)
 - [aiweekly.co Archive](http://aiweekly.co/issues)
+- [機器學習日報](http://ml.memect.com/)
 - [Deep Learning Weekly](http://digest.deeplearningweekly.com)
+
 
 ### Big Data
 - [bigdataweekly.com Archive](http://us2.campaign-archive1.com/home/?u=878bcd0ec6493f52f57278516&id=8556a84b93)
