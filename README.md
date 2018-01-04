@@ -69,7 +69,7 @@ Pull requests happily accepted.
 - [Swift Developments](https://andybargh.com/swiftdevelopments/)
 
 ### Development
-- [statuscode.org Archive](http://statuscode.org/archive)
+- [statuscode.org Archive](http://statuscode.com/issues)
 - [thechangelog.com Weekly Archive](http://thechangelog.com/weekly/archive/)
 - [codingforinterviews.com](http://codingforinterviews.com/)
 
