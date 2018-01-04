@@ -1,4 +1,3 @@
-
 # Awesome-Weekly
 An `awesome` type curated list of quality weekly subscription newsletters from
 the software world.
@@ -7,7 +6,6 @@ Pull requests happily accepted.
 
 
 ### Languages
-
 - [rubyweekly.com Archive](http://rubyweekly.com/issues)
 - [Green Ruby Newsletter](http://greenruby.org/)
 - [javascriptweekly.com Archive](http://javascriptweekly.com/issues)
@@ -27,7 +25,6 @@ Pull requests happily accepted.
 - [Scala Times Archive](http://us2.campaign-archive1.com/home/?u=ba834c562d82d9aba5eaf90ba&id=32cef9ab4e)
 - [DotNet Weekly](http://www.dotnetweekly.com/)
 - [Kotlin Weekly](http://www.kotlinweekly.net/)
-
 
 ### Frontend/Webdesign
 - [AngularJS - ng-newsletter](http://www.ng-newsletter.com/)
@@ -77,13 +74,13 @@ Pull requests happily accepted.
 - [codingforinterviews.com](http://codingforinterviews.com/)
 
 ### DevOps
-
 - [Devops Weekly Archive](http://devopsweekly.com/archive)
 - [Leanstack Weekly](http://leanstack.io/weekly)
 - [Web Operations Weekly](http://webopsweekly.com/)
 - [Docker Weekly Archive](http://blog.docker.io/docker-weekly-archives/)
 - [CenturyLinkLabs - Docker](http://www.centurylinklabs.com/)
 - [Heroku Weekly](https://madmimi.com/signups/72042/join)
+- [KubeWeekly](http://kube.news/)
 
 ### Data Science
 - [datascienceweekly.org Archive](http://www.datascienceweekly.org/newsletters)
@@ -109,4 +106,4 @@ Pull requests happily accepted.
 - [Founder Weekly](http://www.founderweekly.com/), [Archive](http://us2.campaign-archive1.com/home/?u=1777e24141237efbde735ec78&id=286b01fd3e)
 - [Software Craftsmanship Newsletter](http://www.softwarecraftsmanship.news/), [Archive](http://us12.campaign-archive2.com/home/?u=236e2ae83565c4e5b130ac556&id=b96cfd64fc)
 - [Better Dev Link](https://betterdev.link/), [Archive](https://betterdev.link/issues)
-
+- [cron.weekly](https://www.cronweekly.com/)
