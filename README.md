@@ -11,7 +11,7 @@ Pull requests happily accepted.
 - [javascriptweekly.com Archive](http://javascriptweekly.com/issues)
 - [nodeweekly.com Archive](http://nodeweekly.com/issues)
 - [dartweekly.com Archive](http://dartweekly.com/issues)
-- [golangweekly.com Archive](http://www.golangweekly.com/archive)
+- [golangweekly.com Archive](http://www.golangweekly.com/issues)
 - [clojuregazette.com Archive](http://www.clojuregazette.com/archive.html)
 - [(def newsletter) - Clojure - Archive](http://us2.campaign-archive2.com/home/?u=62fb70be840779d7af85e9b6e&id=4951b7aa7c)
 - [Clojure Weekly - Post Series](http://reborg.tumblr.com/)
