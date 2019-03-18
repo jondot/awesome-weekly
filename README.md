@@ -111,3 +111,4 @@ Pull requests happily accepted.
 - [Software Craftsmanship Newsletter](http://www.softwarecraftsmanship.news/), [Archive](http://us12.campaign-archive2.com/home/?u=236e2ae83565c4e5b130ac556&id=b96cfd64fc)
 - [Better Dev Link](https://betterdev.link/), [Archive](https://betterdev.link/issues)
 - [cron.weekly](https://www.cronweekly.com/)
+- [Resilience Roundup](https://ResilienceRoundup.com)
