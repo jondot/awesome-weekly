@@ -113,4 +113,4 @@ Pull requests happily accepted.
 - [Better Dev Link](https://betterdev.link/), [Archive](https://betterdev.link/issues)
 - [cron.weekly](https://www.cronweekly.com/)
 - [Resilience Roundup](https://ResilienceRoundup.com)
-- [Docto Tech Life](https://doctolib.engineering/engineering-news-ruby-rails-react/), weekly roundup of Ruby + Javascript + sofware engineering
+- [Docto Tech Life](https://doctolib.engineering/engineering-news-ruby-rails-react/), weekly roundup of Ruby + Javascript + sofware engineering content
