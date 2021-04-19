@@ -50,6 +50,8 @@ Pull requests happily accepted.
 - [feweekly.com](http://www.feweekly.com/)
 - [Top 30 newsletters for designers, product managers and frontend developers](http://hackingui.com/design/top-newsletters-for-designers-product-managers-and-frontend-developers/)
 - [Design Systems Weekly](https://designsystems.email/)
+- [The UI Development Mentoring Newsletter](https://mentor.silvestar.codes/reads#newsletter)
+- [Tailwind Weekly](https://tailwindweekly.com/)
 
 ### Databases
 - [dbweekly.com Archive](http://dbweekly.com/issues)
@@ -95,8 +97,10 @@ Pull requests happily accepted.
 - [hadoopweekly.com Archive](http://www.hadoopweekly.com/archive.html)
 
 ### Blockchain
-
 - [Build Blockchain](https://www.buildblockchain.tech/newsletter)
+
+### Marketing
+- [tl;dr Marketing](https://tldrmarketing.com)
 
 ### General
 - [FullWeb Weekly](http://fullweb.io/), the newsletter for fullstack developers
@@ -116,3 +120,4 @@ Pull requests happily accepted.
 - [Better Dev Link](https://betterdev.link/), [Archive](https://betterdev.link/issues)
 - [cron.weekly](https://www.cronweekly.com/)
 - [Resilience Roundup](https://ResilienceRoundup.com)
+- [Docto Tech Life](https://doctolib.engineering/engineering-news-ruby-rails-react/), weekly roundup of Ruby + Javascript + sofware engineering content
