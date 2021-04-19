@@ -50,6 +50,7 @@ Pull requests happily accepted.
 - [feweekly.com](http://www.feweekly.com/)
 - [Top 30 newsletters for designers, product managers and frontend developers](http://hackingui.com/design/top-newsletters-for-designers-product-managers-and-frontend-developers/)
 - [Design Systems Weekly](https://designsystems.email/)
+- [The UI Development Mentoring Newsletter](https://mentor.silvestar.codes/reads#newsletter)
 - [Tailwind Weekly](https://tailwindweekly.com/)
 
 ### Databases
