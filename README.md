@@ -96,6 +96,9 @@ Pull requests happily accepted.
 - [bigdataweekly.com Archive](http://us2.campaign-archive1.com/home/?u=878bcd0ec6493f52f57278516&id=8556a84b93)
 - [hadoopweekly.com Archive](http://www.hadoopweekly.com/archive.html)
 
+### Blockchain
+- [Build Blockchain](https://www.buildblockchain.tech/newsletter)
+
 ### Marketing
 - [tl;dr Marketing](https://tldrmarketing.com)
 
