@@ -123,3 +123,4 @@ Pull requests happily accepted.
 - [cron.weekly](https://www.cronweekly.com/)
 - [Resilience Roundup](https://ResilienceRoundup.com)
 - [Docto Tech Life](https://doctolib.engineering/engineering-news-ruby-rails-react/), weekly roundup of Ruby + Javascript + sofware engineering content
+- [Softwaretalks Newsletter](https://newsletter.softwaretalks.ir/), the weekly newsletter for persian developers
