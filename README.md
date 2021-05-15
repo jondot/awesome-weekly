@@ -27,6 +27,7 @@ Pull requests happily accepted.
 - [Kotlin Weekly](http://www.kotlinweekly.net/)
 - [Elm Weekly](http://www.elmweekly.nl)
 - [Haskell Weekly](https://haskellweekly.news)
+- [WebAssembly Weekly](https://wasmweekly.news/)
 
 ### Frontend/Webdesign
 - [AngularJS - ng-newsletter](http://www.ng-newsletter.com/)
