@@ -71,6 +71,7 @@ Pull requests happily accepted.
 - [iOS Dev Nuggets](http://hboon.com/iosdevnuggets/)
 - [This Week in Swift](http://swiftnews.curated.co)
 - [Swift Developments](https://andybargh.com/swiftdevelopments/)
+- [Flutter Croissants](https://flutter-croissants.com/)
 
 ### Development
 - [statuscode.org Archive](http://statuscode.com/issues)
