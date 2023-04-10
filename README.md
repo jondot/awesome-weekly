@@ -54,6 +54,7 @@ Pull requests happily accepted.
 - [Design Systems Weekly](https://designsystems.email/)
 - [The UI Development Mentoring Newsletter](https://mentor.silvestar.codes/reads#newsletter)
 - [Tailwind Weekly](https://tailwindweekly.com/)
+- [Frontend Snacks Weekly Newsletter](https://frontendsnacks.dev/)
 
 ### Databases
 - [dbweekly.com Archive](http://dbweekly.com/issues)
@@ -124,3 +125,4 @@ Pull requests happily accepted.
 - [Resilience Roundup](https://ResilienceRoundup.com)
 - [Docto Tech Life](https://doctolib.engineering/engineering-news-ruby-rails-react/), weekly roundup of Ruby + Javascript + sofware engineering content
 - [Softwaretalks Newsletter](https://newsletter.softwaretalks.ir/), the weekly newsletter for persian developers
+- [Engineering Leadership Snacks Weekly Newsletter](https://engineeringleadership.kulkarniankita.com/), Actionable Leadership tips, a Deep-dive & free Toolbox
