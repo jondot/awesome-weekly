@@ -92,7 +92,7 @@ Pull requests happily accepted.
 - [aiweekly.co Archive](http://aiweekly.co/issues)
 - [機器學習日報](http://ml.memect.com/)
 - [Deep Learning Weekly](http://digest.deeplearningweekly.com)
-
+- [Air Around AI](https://airaroundai.substack.com/)
 
 ### Big Data
 - [bigdataweekly.com Archive](http://us2.campaign-archive1.com/home/?u=878bcd0ec6493f52f57278516&id=8556a84b93)
