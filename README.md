@@ -27,6 +27,7 @@ Pull requests happily accepted.
 - [Kotlin Weekly](http://www.kotlinweekly.net/)
 - [Elm Weekly](http://www.elmweekly.nl)
 - [Haskell Weekly](https://haskellweekly.news)
+- [C# Digest](https://csharpdigest.net/)
 
 ### Frontend/Webdesign
 - [AngularJS - ng-newsletter](http://www.ng-newsletter.com/)
@@ -54,6 +55,7 @@ Pull requests happily accepted.
 - [Design Systems Weekly](https://designsystems.email/)
 - [The UI Development Mentoring Newsletter](https://mentor.silvestar.codes/reads#newsletter)
 - [Tailwind Weekly](https://tailwindweekly.com/)
+- [React Digest](https://reactdigest.net/)
 
 ### Databases
 - [dbweekly.com Archive](http://dbweekly.com/issues)
@@ -77,6 +79,7 @@ Pull requests happily accepted.
 - [thechangelog.com Weekly Archive](http://thechangelog.com/weekly/archive/)
 - [codingforinterviews.com](http://codingforinterviews.com/)
 - [TechBridge Weekly](http://weekly.techbridge.cc/)
+- [Programming Digest](https://programmingdigest.net/)
 
 ### DevOps
 - [Devops Weekly Archive](http://devopsweekly.com/archive)
@@ -124,3 +127,4 @@ Pull requests happily accepted.
 - [Resilience Roundup](https://ResilienceRoundup.com)
 - [Docto Tech Life](https://doctolib.engineering/engineering-news-ruby-rails-react/), weekly roundup of Ruby + Javascript + sofware engineering content
 - [Softwaretalks Newsletter](https://newsletter.softwaretalks.ir/), the weekly newsletter for persian developers
+- [Leadership in Tech](https://leadershipintech.com/), the weekly newsletter for tech leaders
