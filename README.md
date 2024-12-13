@@ -103,6 +103,7 @@ Pull requests happily accepted.
 
 ### Marketing
 - [tl;dr Marketing](https://tldrmarketing.com)
+- [The Marketing Newsletter](http://themarketingnewsletter.org)
 
 ### General
 - [FullWeb Weekly](http://fullweb.io/), the newsletter for fullstack developers
