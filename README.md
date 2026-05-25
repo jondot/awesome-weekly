@@ -92,6 +92,7 @@ Pull requests happily accepted.
 - [aiweekly.co Archive](http://aiweekly.co/issues)
 - [機器學習日報](http://ml.memect.com/)
 - [Deep Learning Weekly](http://digest.deeplearningweekly.com)
+- [DevAI Semanal](https://devaisemanal.com) — Weekly AI developer tools newsletter in Spanish (Claude Code, Cursor, Copilot, MCP). [Open source](https://github.com/Khavel/devai-newsletter).
 
 
 ### Big Data
