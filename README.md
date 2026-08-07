@@ -124,3 +124,5 @@ Pull requests happily accepted.
 - [Resilience Roundup](https://ResilienceRoundup.com)
 - [Docto Tech Life](https://doctolib.engineering/engineering-news-ruby-rails-react/), weekly roundup of Ruby + Javascript + sofware engineering content
 - [Softwaretalks Newsletter](https://newsletter.softwaretalks.ir/), the weekly newsletter for persian developers
+- [Awesome Tech Newsletters] (https://github.com/Infrasity-Labs/awesome-tech-newsletter.git/), List of some Amazing Newsletters
+  
