@@ -71,6 +71,7 @@ Pull requests happily accepted.
 - [iOS Dev Nuggets](http://hboon.com/iosdevnuggets/)
 - [This Week in Swift](http://swiftnews.curated.co)
 - [Swift Developments](https://andybargh.com/swiftdevelopments/)
+- [Storefront Brief](https://fortune-insight.onrender.com/shop/brief/index.html) — English weekly on iOS/indie App Store fees, ASO, and storefront ops. [RSS](https://fortune-insight.onrender.com/shop/brief/feed.xml) · [Issue 1](https://fortune-insight.onrender.com/shop/brief/issue-001-en.html)
 
 ### Development
 - [statuscode.org Archive](http://statuscode.com/issues)
