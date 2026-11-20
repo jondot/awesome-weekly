@@ -21,6 +21,7 @@ Pull requests happily accepted.
 - [phpweekly.com Archive](http://www.phpweekly.com/archive.html)
 - [pythonweekly.com Archive](http://www.pythonweekly.com/archive/)
 - [pycoders.com Archive](http://pycoders.com/archive/)
+- [pythoncat.top Archive](https://weekly.pythoncat.top/en/issues/)
 - [perlweekly.com Archive](http://perlweekly.com/archive/)
 - [Scala Times Archive](http://us2.campaign-archive1.com/home/?u=ba834c562d82d9aba5eaf90ba&id=32cef9ab4e)
 - [DotNet Weekly](http://www.dotnetweekly.com/)
